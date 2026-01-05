@@ -1,0 +1,15 @@
+shopify-klaviyo-api-integrations/
+│
+├── event-tracking/
+│   └── custom-event-payload.js
+│
+├── flows/
+│   └── abandoned-cart-logic.md
+│
+├── suppression-logic/
+│   └── refund-risk-suppression.md
+│
+├── diagrams/
+│   └── shopify-klaviyo-architecture.png
+│
+└── README.md
